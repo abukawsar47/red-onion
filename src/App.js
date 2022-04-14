@@ -1,4 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import FoodDetail from './Pages/FoodDetail/FoodDetail';
 import Home from './Pages/Home/Home/Home';
